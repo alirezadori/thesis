@@ -1,2 +1,1 @@
-written Persian
-# thesis
+The thesis is written in Persian
