@@ -1,1 +1,1 @@
-The thesis is written in Persian
+The thesis is in Persian
